@@ -26,7 +26,7 @@ nav.shift ul li a {
     height: 1px;
     content: '.';
     color: transparent;
-    background: #19e45d;
+    background: #ffffff;
     visibility: none;
     opacity: 0;
     z-index: -1;
